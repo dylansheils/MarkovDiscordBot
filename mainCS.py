@@ -116,7 +116,7 @@ import time
 from discord.ext import commands
 import discord
 
-TOKEN = "OTI5MDg3MjEzMDAwNjEzOTY4.YdiN5Q.fREPeVgrBf4ot6mRF_p2EyOflN0"
+TOKEN = "OTI5MDg3MjEzMDAbuyyBNTY4.YdiN5Q.fREPeVgrBf4ot6mRF_p2EyOflN0"
 
 bot = commands.Bot(command_prefix=("!"))
 client = discord.Client()
